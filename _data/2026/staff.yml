@@ -9,7 +9,11 @@
   - name: Shalin Mehta
     affil: Biohub
     image: staff/shalin_mehta.webp
-
+- name: Course Manager
+  members:
+  - name: Dominique Harajchi
+    affil: HHMI Janelia
+    image: staff/dominique-harajchi.jpg
 - name: Faculty
   members:
   - name: Anna Kreshuk
@@ -51,7 +55,7 @@
   - name: Caterina Fuster Barceló
     affil: BioVisionCenter
     image: staff/caterina-fuster-barcelo.jpg
-  - name: Frederico Carrara
+  - name: Federico Carrara
     affil: Human Technopole
     image: staff/frederico-carrara.jpg
   - name: Jennifer Hill
@@ -75,3 +79,6 @@
   - name: Trang Le
     affil: Biohub
     image: staff/trang-le.jpg
+  - name: Vijay Venu
+    affil: Harris Lab, UT Austin
+    image: staff/vijay-venu.jpg
