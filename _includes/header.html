@@ -2,7 +2,15 @@
   <div class="wrapper">
     <div class="header-left">
       <span class="site-title">
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">{{ site.name }}</a>
+        {% if page.url contains '/2024/' %}
+          <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">{{ site.years[2024].name }}</a>
+        {% elsif page.url contains '/2025/' %}
+          <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">{{ site.years[2025].name }}</a>
+        {% elsif page.url contains '/2026/' %}
+          <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">{{ site.years[2026].name }}</a>
+        {% else %}
+          <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">{{ site.name }}</a>
+        {% endif %}
       
       <a class="year-select-container">
         <select id="year-select" onchange="navigateToYear(this.value)">

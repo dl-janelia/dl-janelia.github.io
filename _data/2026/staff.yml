@@ -23,13 +23,13 @@
     affil: University of Birmingham
     image: staff/alexander-krull.jpg
   - name: Diane Adjavon
-    affil: Funke Lab, HHMI Janelia
+    affil: Biohub
     image: staff/diane-adjavon.jpg
   - name: Florian Jug
     affil: Human Technopole
     image: staff/FlorianJug-VIB.png
   - name: Larissa Heinrich
-    affil: Saalfeld Lab, HHMI Janelia
+    affil: HHMI Janelia
     image: staff/larissa-heinrich.jpg
   - name: Martin Weigert
     affil: Dresden University of Technology
@@ -41,10 +41,10 @@
 - name: Teaching Assistants
   members:
   - name: Albert Dominguez Mantes
-    affil: Weigert and La Manno Lab, EPFL
+    affil: EPFL
     image: staff/Albert-Dominguez-Mantes.jpg
   - name: Anna Foix Romero
-    affil: Uhlmann Group, EMBL-EBI
+    affil: EMBL-EBI
     image: staff/anna-foix-romero.jpg
   - name: Ed Hirata
     affil: Biohub
@@ -59,7 +59,7 @@
     affil: Human Technopole
     image: staff/frederico-carrara.jpg
   - name: Jennifer Hill
-    affil: Sgro lab, HHMI Janelia
+    affil: HHMI Janelia
     image: staff/jennifer-hill.jpg
   - name: Jordão Bragantini
     affil: Biohub
@@ -68,10 +68,10 @@
     affil: Harvard Medical School
     image: staff/maria-theiss.jpg
   - name: Michael Rariden
-    affil: Stringer lab, HHMI Janelia
+    affil: HHMI Janelia
     image: staff/michael-rariden.jpg
   - name: Ryan Savill
-    affil: Veenvliet Group, MPI of Molecular Cell Biology and Genetics
+    affil: MPI-CBG
     image: staff/ryan-savill.jpg
   - name: Teun Huijben
     affil: Biohub
@@ -80,5 +80,5 @@
     affil: Biohub
     image: staff/trang-le.jpg
   - name: Vijay Venu
-    affil: Harris Lab, UT Austin
+    affil: UT Austin
     image: staff/vijay-venu.jpg

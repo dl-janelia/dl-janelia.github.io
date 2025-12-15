@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function () {
         nowIndicator: true,
         googleCalendarApiKey: 'AIzaSyCFvUlXSihnRyPGbMdjRQmDtGUS5OoomLw', // TODO: Add API key
         events: {
-            googleCalendarId: '7be92d4963c81b366f163c3dd90033f0cd52501a2c041500516a26d87707760e@group.calendar.google.com'
+            googleCalendarId: '47929f464037deb3663aececfa3c23efbeaa929c0eb147ed0fe6b6671f066295@group.calendar.google.com'
         },
         views: {
             timeGrid8Day: {
