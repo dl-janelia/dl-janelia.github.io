@@ -3,7 +3,7 @@ layout: about
 permalink: /2026/about/
 title: DL@Janelia 2026
 description: Deep Learning for Microscopy Image Analysis
-logo: dlmbl.svg
+logo: hhmi_janelia.svg
 news: true
 ---
 
