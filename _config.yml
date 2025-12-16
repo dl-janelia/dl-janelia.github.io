@@ -1,23 +1,33 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: AI@MBL Team
-name: AI@MBL
-title: Artificial Intelligence for Microscopy Image Analysis
+author: DL@Janelia Team
+name: DL@Janelia
+title: Deep Learning for Microscopy Image Analysis
+
+years:
+  2024:
+    name: DL@MBL
+    author: DL@MBL Team
+  2025:
+    name: AI@MBL
+    author: AI@MBL Team
+  2026:
+    name: DL@Janelia
+    author: DL@Janelia Team
 description: >
-  The goal of this course is to familiarize researchers in the life sciences with state-of-the-art deep learning techniques
-  for microscopy image analysis and to introduce them to tools and frameworks that facilitate independent application of the
-  learned material after the course.
+  A small, hands-on bootcamp course to familiarize life science researchers with state-of-the-art deep learning techniques
+  for microscopy image analysis and introduce tools and frameworks that enable independent application of the material.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-repository: ai-mbl/ai-mbl.github.io
-url: https://ai-mbl.github.io # the base hostname & protocol for your site
+repository: dl-janelia/dl-janelia.github.io
+url: https://dl-janelia.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: ai-mbl
+github_username: dl-janelia
 
 # Optional features
 show_social_icons:  true

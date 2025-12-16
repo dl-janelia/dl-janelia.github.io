@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>{{ site.name }}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
+  <title>{% if page.url contains '/2024/' %}{{ site.years[2024].name }}{% elsif page.url contains '/2025/' %}{{ site.years[2025].name }}{% elsif page.url contains '/2026/' %}{{ site.years[2026].name }}{% else %}{{ site.name }}{% endif %}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
   <meta name="description" content="{{ site.description }}">
 
   <link rel="shortcut icon" href="{{ '/assets/img/favicon.ico' | relative_url }}">

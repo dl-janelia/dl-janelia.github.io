@@ -5,11 +5,17 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li class="p-name">
-            {%- if site.author -%}
+            {% if page.url contains '/2024/' %}
+              {{ site.years[2024].author | escape }}
+            {% elsif page.url contains '/2025/' %}
+              {{ site.years[2025].author | escape }}
+            {% elsif page.url contains '/2026/' %}
+              {{ site.years[2026].author | escape }}
+            {% elsif site.author %}
               {{ site.author | escape }}
-            {%- else -%}
+            {% else %}
               {{ site.title | escape }}
-            {%- endif -%}
+            {% endif %}
             </li>
             {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>

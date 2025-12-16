@@ -1,0 +1,81 @@
+- name: Organizers
+  members:
+  - name: Carsen Stringer
+    affil: HHMI Janelia
+    image: staff/carsen-stringer.jpg
+  - name: Jan Funke
+    affil: HHMI Janelia
+    image: staff/jan-funke.jpg
+  - name: Shalin Mehta
+    affil: Biohub
+    image: staff/shalin_mehta.webp
+- name: Course Manager
+  members:
+  - name: Dominique Harajchi
+    affil: HHMI Janelia
+    image: staff/dominique-harajchi.jpg
+- name: Faculty
+  members:
+  - name: Alexander Krull
+    affil: University of Birmingham
+    image: staff/alexander-krull.jpg
+  - name: Diane Adjavon
+    affil: Biohub
+    image: staff/diane-adjavon.jpg
+  - name: Florian Jug
+    affil: Human Technopole
+    image: staff/FlorianJug-VIB.png
+  - name: Larissa Heinrich
+    affil: HHMI Janelia
+    image: staff/larissa-heinrich.jpg
+  - name: Martin Weigert
+    affil: Dresden University of Technology
+    image: staff/martin-weigert.jpg
+  - name: Virginie Uhlmann
+    affil: BioVisionCenter
+    image: staff/virginie-uhlmann.jpg
+
+- name: Teaching Assistants
+  members:
+  - name: Albert Dominguez Mantes
+    affil: EPFL
+    image: staff/Albert-Dominguez-Mantes.jpg
+  - name: Anna Foix Romero
+    affil: EMBL-EBI
+    image: staff/anna-foix-romero.jpg
+  - name: Ed Hirata
+    affil: Biohub
+    image: staff/ed-hirata.jpg
+  - name: Akilandeswari Balasubramanian
+    affil: Biohub
+    image: staff/akilandeswari-balasubramanian.jpg
+  - name: Caterina Fuster Barceló
+    affil: BioVisionCenter
+    image: staff/caterina-fuster-barcelo.jpg
+  - name: Federico Carrara
+    affil: Human Technopole
+    image: staff/frederico-carrara.jpg
+  - name: Jennifer Hill
+    affil: HHMI Janelia
+    image: staff/jennifer-hill.jpg
+  - name: Jordão Bragantini
+    affil: Biohub
+    image: staff/Jordao-Bragantini.jpeg
+  - name: Maria Theiss
+    affil: Harvard Medical School
+    image: staff/maria-theiss.jpg
+  - name: Michael Rariden
+    affil: HHMI Janelia
+    image: staff/michael-rariden.jpg
+  - name: Ryan Savill
+    affil: MPI-CBG
+    image: staff/ryan-savill.jpg
+  - name: Teun Huijben
+    affil: Biohub
+    image: staff/teun-huijben.jpg
+  - name: Trang Le
+    affil: Biohub
+    image: staff/trang-le.jpg
+  - name: Vijay Venu
+    affil: UT Austin
+    image: staff/vijay-venu.jpg
