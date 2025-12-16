@@ -16,9 +16,6 @@
     image: staff/dominique-harajchi.jpg
 - name: Faculty
   members:
-  - name: Anna Kreshuk
-    affil: EMBL Heidelberg
-    image: staff/anna-kreshuk.jpg
   - name: Alexander Krull
     affil: University of Birmingham
     image: staff/alexander-krull.jpg
