@@ -20,14 +20,14 @@ description: >
   for microscopy image analysis and introduce tools and frameworks that enable independent application of the material.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-repository: ai-mbl/ai-mbl.github.io
-url: https://ai-mbl.github.io # the base hostname & protocol for your site
+repository: dl-janelia/dl-janelia.github.io
+url: https://dl-janelia.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: ai-mbl
+github_username: dl-janelia
 
 # Optional features
 show_social_icons:  true
