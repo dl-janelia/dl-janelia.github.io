@@ -46,15 +46,15 @@
   - name: Ed Hirata
     affil: Biohub
     image: staff/ed-hirata.jpg
-  - name: Akilandeswari Balasubramanian
-    affil: Biohub
-    image: staff/akilandeswari-balasubramanian.jpg
   - name: Caterina Fuster Barceló
     affil: BioVisionCenter
     image: staff/caterina-fuster-barcelo.jpg
   - name: Federico Carrara
     affil: Human Technopole
     image: staff/frederico-carrara.jpg
+  - name: Irene Mancebo Laguna
+    affil: UC3M
+    image: staff/irene-mancebo-laguna.jpg
   - name: Jennifer Hill
     affil: HHMI Janelia
     image: staff/jennifer-hill.jpg
