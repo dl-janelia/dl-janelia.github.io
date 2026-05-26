@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 eventType = 'talk';
             } else if (eventTitle.includes('ex.') || (eventTitle.includes('project') && eventTitle.includes('work'))) {
                 eventType = 'exercise';
-            } else if (eventTitle.includes('lunch') || eventTitle.includes('dinner')) {
+            } else if (eventTitle.includes('lunch') || eventTitle.includes('dinner') || eventTitle.includes('breakfast')) {
                 eventType = 'meal';
             } else if (eventTitle.includes('party') || eventTitle.includes('day off')) {
                 eventType = 'party';
