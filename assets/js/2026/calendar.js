@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
         initialView: getInitialView(),
         initialDate: startDate, //this should work but is broken
         contentHeight: 'auto',
-        slotMinTime: '08:00:00',
+        slotMinTime: '07:00:00',
         slotMaxTime: '23:00:00',
         firstDay: 3,
         headerToolbar: {
@@ -60,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 eventType = 'talk';
             } else if (eventTitle.includes('ex.') || (eventTitle.includes('project') && eventTitle.includes('work'))) {
                 eventType = 'exercise';
-            } else if (eventTitle.includes('lunch') || eventTitle.includes('dinner')) {
+            } else if (eventTitle.includes('lunch') || eventTitle.includes('dinner') || eventTitle.includes('breakfast')) {
                 eventType = 'meal';
             } else if (eventTitle.includes('party') || eventTitle.includes('day off')) {
                 eventType = 'party';
