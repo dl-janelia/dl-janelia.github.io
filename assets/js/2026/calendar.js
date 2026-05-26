@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
         initialView: getInitialView(),
         initialDate: startDate, //this should work but is broken
         contentHeight: 'auto',
-        slotMinTime: '08:00:00',
+        slotMinTime: '07:00:00',
         slotMaxTime: '23:00:00',
         firstDay: 3,
         headerToolbar: {
