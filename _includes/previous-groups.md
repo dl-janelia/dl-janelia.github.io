@@ -1,3 +1,7 @@
+## 2026
+[![2026 group](/assets/img/groups/group-2026.png){:width="100%"}](/assets/img/groups/group-2026.png){:data-lightbox="group-2026"}
+
+
 ## 2025
 [![2025 group](/assets/img/groups/group-2025.jpeg){:width="100%"}](/assets/img/groups/group-2025.jpeg){:data-lightbox="group-2025"}
 
