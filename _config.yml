@@ -15,6 +15,9 @@ years:
   2026:
     name: DL@Janelia
     author: DL@Janelia Team
+  2027:
+    name: DL@Janelia
+    author: DL@Janelia Team
 description: >
   A small, hands-on bootcamp course to familiarize life science researchers with state-of-the-art deep learning techniques
   for microscopy image analysis and introduce tools and frameworks that enable independent application of the material.

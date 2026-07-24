@@ -1,13 +1,13 @@
-# DL@MBL Course Website
+# DL@Janelia Course Website
 
 To add pages:
 - Create a new md page in `_pages`
 - Add a link to the new page in the header
     - Edit `_includes/header.html` and find the comment about adding new pages to navbar
 
-To add year: 
+To add year (e.g. 2026):
 ```
-/assets/js/2026/calendar.js # mostly copy, change dates, ptentially CalendarId+Key
+assets/js/2026/calendar.js # mostly copy, change dates, ptentially CalendarId+Key
 _data/2026 # staff.yml
 _includes/header.html # selector + course name 
 _pages/2026 # mostly copy and changing 2025 -> 2026 references
