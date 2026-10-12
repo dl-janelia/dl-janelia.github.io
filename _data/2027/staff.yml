@@ -1,8 +1,5 @@
 - name: Organizers
   members:
-  - name: Carsen Stringer
-    affil: HHMI Janelia
-    image: staff/carsen-stringer.jpg
   - name: Jakob Troidl
     affil: HHMI Janelia
     image: staff/jakob-troidl.png
